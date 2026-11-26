@@ -1,0 +1,5 @@
+GET http://localhost:5271/contador
+
+###
+
+GET http://localhost:5271/contador/decremento
